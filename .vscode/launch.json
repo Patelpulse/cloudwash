@@ -1,0 +1,74 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Flutter",
+            "type": "dart",
+            "request": "launch",
+            "program": "lib/main.dart"
+        },
+        {
+            "name": "cloudwashuser",
+            "cwd": "cloudwash11/cloudwashuser",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "cloudwashuser (profile mode)",
+            "cwd": "cloudwash11/cloudwashuser",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "cloudwashuser (release mode)",
+            "cwd": "cloudwash11/cloudwashuser",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "cloud_admin",
+            "cwd": "cloudwasher/cloud_admin",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "cloud_admin (profile mode)",
+            "cwd": "cloudwasher/cloud_admin",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "cloud_admin (release mode)",
+            "cwd": "cloudwasher/cloud_admin",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "cloud_user",
+            "cwd": "cloudwasher/cloud_user",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "cloud_user (profile mode)",
+            "cwd": "cloudwasher/cloud_user",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "cloud_user (release mode)",
+            "cwd": "cloudwasher/cloud_user",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
